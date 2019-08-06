@@ -1,0 +1,5 @@
+C:\Users\karar\Desktop\FDR\TpeDataReader\Automat\bin\Debug\Automat.dll
+C:\Users\karar\Desktop\FDR\TpeDataReader\Automat\bin\Debug\Automat.pdb
+C:\Users\karar\Desktop\FDR\TpeDataReader\Automat\obj\Debug\Automat.dll
+C:\Users\karar\Desktop\FDR\TpeDataReader\Automat\obj\Debug\Automat.pdb
+C:\Users\karar\Desktop\FDR\TpeDataReader\Automat\obj\Debug\AutomatMachine.csprojResolveAssemblyReference.cache
