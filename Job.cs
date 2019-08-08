@@ -13,6 +13,7 @@ namespace AutomatMachine
         Running,
         Stopped,
         Successful,
+        WaitingForChildrenToComplete,
         WaitingToRun
     }
 
